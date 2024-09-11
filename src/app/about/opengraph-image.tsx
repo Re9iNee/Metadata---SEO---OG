@@ -32,7 +32,7 @@ export default async function Image() {
           justifyContent: "center",
         }}
       >
-        ☠️ About Us | A Guide to Die By Code ☠️
+        About Us
       </div>
     ),
     // ImageResponse options
