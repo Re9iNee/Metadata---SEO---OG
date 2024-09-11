@@ -32,7 +32,7 @@ export default async function Image() {
           justifyContent: "center",
         }}
       >
-        About Acme
+        ☠ About Us ☠
       </div>
     ),
     // ImageResponse options
